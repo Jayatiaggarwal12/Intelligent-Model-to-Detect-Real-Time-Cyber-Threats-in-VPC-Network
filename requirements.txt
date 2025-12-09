@@ -1,0 +1,11 @@
+streamlit>=1.24.0
+pandas
+numpy
+joblib
+scikit-learn
+matplotlib
+plotly
+shap
+sentence-transformers
+openai
+tqdm
